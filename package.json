@@ -1,0 +1,17 @@
+{
+    "name": "05-proyect-todo-list",
+    "version": "1.0.0",
+    "description": "Este proyecto permite administrar una lista de tareas",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Mauricio Montoya Medrano - Bitcubico Technology S.A.S.",
+    "license": "ISC",
+    "dependencies": {
+        "colors": "^1.3.3",
+        "is-empty": "^1.2.0",
+        "node-datetime": "^2.1.2",
+        "yargs": "^13.2.4"
+    }
+}
